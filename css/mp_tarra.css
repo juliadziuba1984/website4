@@ -12188,7 +12188,7 @@ input[type=submit].btn_register{
 .compare_items .item_properties_block{
 	position:absolute;
 	top:0px;
-	right:0px;
+	left:0px;
 	background:none;
 	
 }
